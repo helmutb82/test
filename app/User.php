@@ -18,7 +18,7 @@ class User extends Model implements AuthenticatableContract,
 
 
 //dfdfdsfdsfgdsfds
-//LALALALALALALALA
+//LALALALALALALALA sdsadassdsa
     /**
      * The database table used by the model.
      *
